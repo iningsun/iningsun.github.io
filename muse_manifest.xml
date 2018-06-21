@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.baidu.com" resolutions="1x" timestamp="1529559019994">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.baidu.com" resolutions="1x" timestamp="1529559585528">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="iningsun.css" crc="58809422" ref="iningsun"/>
-    <file name="nomq_iningsun.css" crc="4096869174" ref="iningsun"/>
+    <file name="iningsun.css" crc="346545961" ref="iningsun"/>
+    <file name="nomq_iningsun.css" crc="3883967436" ref="iningsun"/>
     <file name="index.css" crc="189007710" ref="index"/>
     <file name="nomq_index.css" crc="385497858" ref="index"/>
     <file name="about.css" crc="4166585605" ref="about"/>
@@ -38,7 +38,12 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="logo.png" crc="3936096186" seo="true" ref="about">
+    <file name="logo.png" crc="3980200752" seo="true" ref="about:iningsun">
+      <caption webpage="iningsun" alt=""/>
+      <caption webpage="iningsun" alt=""/>
+      <caption webpage="iningsun" alt=""/>
+      <caption webpage="iningsun" alt=""/>
+      <caption webpage="iningsun" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="u3158-4.png" crc="3945549099" ref="about"/>
@@ -257,13 +262,6 @@
     <file name="img_1063 3613x384.jpg" crc="4212502772" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2.png" crc="3980200752" seo="true" ref="iningsun">
-      <caption webpage="iningsun" alt=""/>
-      <caption webpage="iningsun" alt=""/>
-      <caption webpage="iningsun" alt=""/>
-      <caption webpage="iningsun" alt=""/>
-      <caption webpage="iningsun" alt=""/>
-    </file>
     <file name="sun ining@2x.png" crc="413580125" seo="true" ref="iningsun">
       <caption webpage="iningsun" alt=""/>
       <caption webpage="iningsun" alt=""/>
@@ -317,7 +315,7 @@
       <caption webpage="iningsun" alt=""/>
       <caption webpage="iningsun" alt=""/>
     </file>
-    <file name="u5366-6.png" crc="3903747417" ref="iningsun"/>
+    <file name="u5366-6.png" crc="4227698109" ref="iningsun"/>
     <file name="you are really inter@2x.png" crc="3849232086" seo="true" ref="iningsun">
       <caption webpage="iningsun" alt=""/>
       <caption webpage="iningsun" alt=""/>
@@ -464,5 +462,5 @@
   </folder>
   <file name="about.html" crc="4210518708" seo="true" mt="1529513576983" redirect="true"/>
   <file name="index.html" crc="4154285454" seo="true" mt="1529515322967" redirect="true"/>
-  <file name="iningsun.html" crc="165174874" seo="true" mt="1529515165249" redirect="true"/>
+  <file name="iningsun.html" crc="52245725" seo="true" mt="1529559571113" redirect="true"/>
 </manifest>
